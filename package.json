@@ -10,6 +10,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["toy", "fun"],
+  "homepage": "https://github.com/Orime112/orime_cli",
+  "repository": {
+    "url": "https://github.com/Orime112/orime_cli"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
